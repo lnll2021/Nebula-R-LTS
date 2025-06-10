@@ -1,7 +1,7 @@
 # Nebula-R LTS版本
-## 一群歌姬
+## 敬请期待
 
-# 多语言样式声明
+# 多语言声明
 <details>
 <summary> 展开 </summary>
 
