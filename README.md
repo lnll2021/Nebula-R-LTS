@@ -1,4 +1,4 @@
-# Nebula-R LTS版本
+# Nebula-R-LTS版本
 ## 敬请期待
 
 # 多语言声明
